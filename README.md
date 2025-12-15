@@ -13,6 +13,10 @@ This project is a LinkedIn-style homepage UI clone built using **HTML** and **Ta
 
  https://linkedin-clone-site.vercel.app/
  
+## Output Screenshot
+
+![linkedin-post](public/linked-post.jpeg)
+
 
 ###  Author
 
